@@ -1,0 +1,28 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Signature
+
+
+File name:
+    plaintext.txt
+
+
+Method:
+    SHA-2
+    RSA
+
+
+Key length:
+    0100
+    0400
+
+
+Signature:
+    4b52ca08de36f2d16c439ff6c19a915a8a104a0dba329f24a6da50350b11
+    773fe257625ceaecfc0c41a3b5c7e0e52d5b563b44ce6a6856ab1264cfc7
+    3ad562fc7cebd0a32fadf2e8eeb2ec55c2524ffa094aae09fb4b22ec2dd7
+    f1313372ef84369242636abd08cc882a6b3d808cb1e5e6a6f8276312e2cb
+    f13f5fc8d711f73a
+
+
+---END OS2 CRYPTO DATA---

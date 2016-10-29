@@ -1,0 +1,20 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Crypted file
+
+
+File name:
+    plaintext.txt
+
+
+Method:
+    RSA
+
+
+Data:
+    YneH0M8pfoLoPuhU3LbqoeEUcza4IwL+uozcnYj05xcpCZaWOsffvbFOFra+
+    +8MmsXfnSmlztw4e3xBqg8eKF+lfUGQEJLz/4PDAxBwWTHjVgGhPpmB1cOCr
+    MQlrZd3qmOvug+cv1pqHR1bqfMFox+sxkeeJa2L4us/X1yoBbUw=
+
+
+---END OS2 CRYPTO DATA---

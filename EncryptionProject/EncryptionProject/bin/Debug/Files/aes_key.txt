@@ -1,0 +1,22 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Secret key
+
+
+Method:
+    AES
+
+
+Key length:
+    80
+
+
+Secret key:
+    144be9e48909e5510ae0313e0b8892fd
+
+
+Initialization vector:
+    27accd91db49448903b84a6b14e5be41
+
+
+---END OS2 CRYPTO DATA---

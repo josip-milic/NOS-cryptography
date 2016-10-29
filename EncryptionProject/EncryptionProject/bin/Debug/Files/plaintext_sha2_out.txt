@@ -1,0 +1,19 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Digest
+
+
+File name:
+    plaintext.txt
+
+
+Method:
+    SHA-2
+
+
+Data:
+    ee4dac789debc7c1042d5587ee7f4c47f865f0c684f67bac5921b6a8502e
+    f378
+
+
+---END OS2 CRYPTO DATA---

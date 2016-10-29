@@ -1,0 +1,19 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Crypted file
+
+
+File name:
+    plaintext.txt
+
+
+Method:
+    AES
+
+
+Data:
+    tIZ12IRhLiskqjr4wOo8bqBZKDC5XZoxX4dUPQ0UbJJPXPP351YfWcMMqDHN
+    w42i3oHLzzlWaed7uhRYCMbQ2Q==
+
+
+---END OS2 CRYPTO DATA---

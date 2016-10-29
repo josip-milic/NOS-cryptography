@@ -1,0 +1,28 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Signature
+
+
+File name:
+    plaintext_seal_envelope.txt
+
+
+Method:
+    SHA-2
+    RSA
+
+
+Key length:
+    0100
+    0400
+
+
+Signature:
+    05a617f512b9106f843bba30d21e665387537ad70515e3bd91bffc64a336
+    40c48142419f85f270b217f2f4949ee992cdb7edac27f4035c5d37e94cd7
+    f03d8a9b4be9c99c107a57750c9f762b76cc14f90a57789f75368076f769
+    bb912f978a23306c79a417cff14c248ca82ae6ff0ac6d345b4efdea09e5f
+    f760cf2996c9a1c8
+
+
+---END OS2 CRYPTO DATA---

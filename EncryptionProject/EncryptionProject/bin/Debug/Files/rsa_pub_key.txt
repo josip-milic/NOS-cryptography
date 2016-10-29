@@ -1,0 +1,26 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Public key
+
+
+Method:
+    RSA
+
+
+Key length:
+    0400
+
+
+Modulus:
+    93d347e418b554459ffb2fb473d237d98c88c5f1ce1e5420e6c70455fa1b
+    9ebfbf7eabf8a3b959bd91179e945ff1329997362c7ae7379a127e794e3d
+    c842499f962b4975ab88f0b836c4bc72408f90030e8be5d56a27ad0c44f2
+    5b91db2b30bd80ddef7ed7f3b72a296ece11f2a6ac7817dbf22adcde9d77
+    1689e7f4861ccc5f
+
+
+Public exponent:
+    010001
+
+
+---END OS2 CRYPTO DATA---

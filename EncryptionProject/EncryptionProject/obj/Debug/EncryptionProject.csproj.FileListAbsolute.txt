@@ -1,0 +1,12 @@
+c:\users\josip\documents\visual studio 2015\Projects\EncryptionProject\EncryptionProject\bin\Debug\EncryptionProject.exe.config
+c:\users\josip\documents\visual studio 2015\Projects\EncryptionProject\EncryptionProject\obj\Debug\EncryptionProject.csprojResolveAssemblyReference.cache
+c:\users\josip\documents\visual studio 2015\Projects\EncryptionProject\EncryptionProject\obj\Debug\EncryptionProject.Properties.Resources.resources
+c:\users\josip\documents\visual studio 2015\Projects\EncryptionProject\EncryptionProject\obj\Debug\EncryptionProject.csproj.GenerateResource.Cache
+c:\users\josip\documents\visual studio 2015\Projects\EncryptionProject\EncryptionProject\bin\Debug\EncryptionProject.exe
+c:\users\josip\documents\visual studio 2015\Projects\EncryptionProject\EncryptionProject\bin\Debug\EncryptionProject.pdb
+c:\users\josip\documents\visual studio 2015\Projects\EncryptionProject\EncryptionProject\obj\Debug\EncryptionProject.exe
+c:\users\josip\documents\visual studio 2015\Projects\EncryptionProject\EncryptionProject\obj\Debug\EncryptionProject.pdb
+C:\Users\Josip\documents\visual studio 2015\Projects\EncryptionProject\EncryptionProject\obj\Debug\EncryptionProject.MainForm.resources
+F:\NOS LAB\EncryptionProject\EncryptionProject\bin\Debug\EncryptionProject.exe.config
+F:\NOS LAB\EncryptionProject\EncryptionProject\obj\Debug\EncryptionProject.exe
+F:\NOS LAB\EncryptionProject\EncryptionProject\obj\Debug\EncryptionProject.pdb

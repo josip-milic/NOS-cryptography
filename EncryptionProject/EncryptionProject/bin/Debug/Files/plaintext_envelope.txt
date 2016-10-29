@@ -1,0 +1,41 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Envelope
+
+
+File name:
+    plaintext.txt
+
+
+Method:
+    AES
+    RSA
+
+
+Key length:
+    80
+    0400
+
+
+Envelope data:
+    GkJj1rU7YIZ7vlBAxGupwy2JPG2DSC4fQWPCUhZ+ukR1WBUtjxfOfeIg6nDQ
+    sew0lzvtKFfAf7TvCuegky+BYA==
+
+
+Envelope crypt key:
+    238a4ecd43dce8c7c2b5ebcca4d30ec724a0e1ed88efcf49cb4790f45ff7
+    89b6cf9719dac2fccce9bd0036ced357eb5705b2444b6746a27cb3f48e12
+    9415f32a6c5805b7fb4dbccb71d8f64de85a3fcbf8ce7b7b9ee779ba6a12
+    18793cfe3ab73ff6d446fbd2a8142fb62503461128c24d3f287c0a04b855
+    339c308db94b126d
+
+
+Envelope crypt initialization vector:
+    2487a7e6b32759c47ff146474e39a670dbf1fc2604fba9ab483eebfdc716
+    34cbae617dbbc9fe3a5fd77e56160f0aa7d5c29e09267031f7ab691bc970
+    f2da1151ff266d6ab606bb5b18a2684d36d0c2f37e06dc57d65028db0487
+    d332152ffd671ee341c5433a94616d5b8956d4552414a3bfd2f0885c3571
+    ead13c191ff49953
+
+
+---END OS2 CRYPTO DATA---
